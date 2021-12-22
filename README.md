@@ -1,4 +1,4 @@
-### Welcome to DongHwan Shin's Repositories!! 👋
+### Welcome to DongHwan Shin's Repositories!! :metal:	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinDongHwan&show_icons=true&theme=omni)
  
 <!--
