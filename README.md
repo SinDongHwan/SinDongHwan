@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Welcome to DongHwan Shin's Repositories!! 👋
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinDongHwan&show_icons=true&theme=omni)
+ 
 <!--
 **SinDongHwan/SinDongHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
