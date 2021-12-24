@@ -13,7 +13,6 @@ I'm a Deep Learning engineer.
 - **Image Recognition using Deep Learning**
     - Classification
     - Object Detection
-    - Segmentation
  
 - **How to reach me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donghwan-shin-65a188132/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
