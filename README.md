@@ -1,6 +1,9 @@
 ### Welcome to DongHwan Shin's Repositories!! :metal:	
 I'm a Deep Learning engineer.
-
+- **Career**
+    - Received the B.S. degrees in Computer Software, Korea Aerospace University.
+    - Working at SOFTonNET, Korea.
+    
 - **Project**
     - Surveillance CCTV System( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection )
         - Got certifications at KISA
