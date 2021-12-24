@@ -1,11 +1,31 @@
 ### Welcome to DongHwan Shin's Repositories!! :metal:	
+I'm a Deep Learning engineer.
+
+- **Project**
+    - Surveillance CCTV( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection )
+    - X-Ray demo
+    - SmartHome
+    - Vessel Anchorage Monitoring
+    - Airport State Monitoring(POC)
+    - Mask Recognition for covid-19
+    - Face Recognition(Verification)
+    
+- **Image Recognition using Deep Learning**
+    - Classification
+    - Object Detection
+    - Segmentation
+ 
+- **How to reach me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donghwan-shin-65a188132/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
 [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/donghwan.shin.984/)](https://www.facebook.com/donghwan.shin.984/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:god.donghwan@gmail.com)](mailto:god.donghwan@gmail.com)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=SinDongHwan)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SinDongHwan&show_icons=true&theme=omni)
- 
+
+ <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=SinDongHwan&show_icons=true&theme=omni&hide_border=true&bg_color=20232a&icon_color=E3E3E3A8&text_color=fff" />
+</a>
+
 <!--
 **SinDongHwan/SinDongHwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
