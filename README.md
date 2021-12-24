@@ -2,7 +2,8 @@
 I'm a Deep Learning engineer.
 
 - **Project**
-    - Surveillance CCTV( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection )
+    - Surveillance CCTV System( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection )
+        - Got certifications at KISA
     - X-Ray demo
     - SmartHome
     - Vessel Anchorage Monitoring
