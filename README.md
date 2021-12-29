@@ -1,9 +1,11 @@
 ### Welcome to DongHwan Shin's Repositories!! :metal:	
-I'm a Deep Learning engineer.
+I'm a AI Research Engineer.
 - **Career**
-    - Received the B.S. degrees in Computer Software, Korea Aerospace University.
-    - Working at SOFTonNET, Korea.
-    
+    - Working at SOFTonNET, Korea. (2017.09 ~ )
+    - Worked at irise, Korea. (2016.12 ~ 2017.05)
+    - Worked as an intern at b2en, Korea. (2016.09 ~ 2016.12)
+    - Received the B.S. degrees in Computer Software, Korea Aerospace University. (2008.03 ~ 2017.02)
+
 - **Project**
     - Surveillance CCTV System( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection )
         - Got certifications at KISA
@@ -14,9 +16,11 @@ I'm a Deep Learning engineer.
     - Mask Recognition for covid-19
     - Face Recognition(Verification)
     
-- **Image Recognition using Deep Learning**
-    - Classification
+- **Interest**
     - Object Detection
+    - Tracking
+    - Human Pose Estimation
+    - Image Classification
  
 - **How to reach me:**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/donghwan-shin-65a188132/)](https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)
