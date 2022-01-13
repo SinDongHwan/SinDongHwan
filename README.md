@@ -12,7 +12,7 @@ I'm a AI Research Engineer.
     - X-Ray demo
     - SmartHome
     - Vessel Anchorage Monitoring
-    - Apron AI in Action Monitoring(POC)
+    - Apron AI in Action Monitoring at Airport(POC)
     - Mask Recognition for covid-19
     - Face Recognition(Verification)
     
