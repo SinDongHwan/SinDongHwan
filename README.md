@@ -7,8 +7,8 @@ I'm a AI Research Engineer.
     - Received the B.S. degrees in Computer Software, Korea Aerospace University. (2008.03 ~ 2017.02)
 
 - **Project**
-    - Surveillance CCTV System( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection )
-        - Got certifications at KISA
+    - Surveillance CCTV System( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection, Marketing(PeopleCounting, Queueing) )
+        - Got all certifications about the civilian area at KISA
     - X-Ray demo
     - SmartHome
     - Vessel Anchorage Monitoring
