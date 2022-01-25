@@ -1,4 +1,6 @@
 ### Welcome to DongHwan Shin's Repositories!! :metal:	
+![](https://komarev.com/ghpvc/?username=SinDongHwan&color=dc143c)
+
 I'm a AI Research Engineer.
 - **Career**
     - Working at SOFTonNET, Korea. (2017.09 ~ )
