@@ -12,7 +12,7 @@ I'm a AI Research Engineer.
 - **Project**
     - Surveillance CCTV System( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection, Marketing(PeopleCounting, Queueing) )
         - Got all certifications about the civilian area at KISA
-    - X-Ray demo
+    - X-Ray demo(Security)
     - SmartHome
     - Vessel Anchorage Monitoring
     - Airport Apron Action Monitoring at KAC(POC)
