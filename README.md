@@ -3,6 +3,7 @@
 
 I'm a AI Research Engineer.
 - **Career**
+    - Google machine learning bootcamp 2022 (2022.06.22 ~ )
     - Working at SOFTonNET, Korea. (2017.09 ~ )
     - Worked at irise, Korea. (2016.12 ~ 2017.05)
     - Worked as an intern at b2en, Korea. (2016.09 ~ 2016.12)
