@@ -12,12 +12,13 @@ I'm a AI Research Engineer.
 - **Project**
     - Surveillance CCTV System( Intrusion, Loitering, Abandonment, Falldown, Violence, FireDetection, Marketing(PeopleCounting, Queueing) )
         - Got all certifications about the civilian area at KISA
-    - X-Ray demo(Security)
+    - X-Ray demo(Airport)
     - SmartHome
     - Vessel Anchorage Monitoring
     - Airport Apron Action Monitoring at KAC(POC)
     - Mask Recognition for covid-19
     - Face Recognition(Verification)
+    - X-Ray(Security) improve accuracy(80->90)
     
 - **Interest**
     - Object Detection
