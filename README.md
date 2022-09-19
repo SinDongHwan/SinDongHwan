@@ -1,7 +1,7 @@
 ### Welcome to DongHwan Shin's Repositories!! :metal:	
 ![](https://komarev.com/ghpvc/?username=SinDongHwan&color=dc143c)
 
-I'm a AI Research Engineer.
+I'm a AI Engineer.
 - **Career**
     - Google machine learning bootcamp 2022(3th) (2022.06.22 ~ 2022.09.15)
     - Worked at SOFTonNET, Korea. (2017.09 ~ 2022.07)
