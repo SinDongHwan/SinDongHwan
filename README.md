@@ -18,7 +18,7 @@ I'm a AI Engineer.
     - Airport Apron Action Monitoring at KAC(POC)
     - Mask Recognition for covid-19
     - Face Recognition(Verification)
-    - X-Ray(Security) improve accuracy(80->90)
+    - X-Ray(Security) improve accuracy(81->93)
     
 - **Interest**
     - Object Detection
